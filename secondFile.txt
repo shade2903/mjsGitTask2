@@ -6,5 +6,5 @@ second
 second
 second
 second
-second
-second
+second chamges in git_1
+second changes in git_1
