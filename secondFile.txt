@@ -6,5 +6,5 @@ second
 second
 second
 second
-second
-second
+second changed in git_2
+second changed in git_2
