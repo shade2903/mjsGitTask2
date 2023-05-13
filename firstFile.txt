@@ -1,5 +1,5 @@
-first
-first
+first modifed in git 1
+first modifed in git 1
 first
 first
 first
